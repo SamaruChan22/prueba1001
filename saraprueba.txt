@@ -1,1 +1,1 @@
-Estoy haciendo una prueba en casa
+Estoy haciendo un cambio en el vi y luego lo comparo con git diff
